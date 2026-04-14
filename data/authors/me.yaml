@@ -25,8 +25,8 @@ links:
   - icon: at-symbol
     url: mailto:chen4863@purdue.edu
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/yzChen29
+  # - icon: brands/github
+  #   url: https://github.com/yzChen29
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yuzhao-chen-01a33a2a4
   - icon: academicons/google-scholar
@@ -54,7 +54,7 @@ education:
     end: 2023-06-30
     summary: |
       Project: your master's project title and brief description.
-  - degree: "B.S. in Mathematics (GPA: 3.92/4.0)"
+  - degree: "B.S. in Mathematics"
     institution: University of Liverpool
     start: 2019-09-01
     end: 2021-06-30

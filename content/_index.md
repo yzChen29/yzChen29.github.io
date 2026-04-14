@@ -33,21 +33,10 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: 'About'
-      subtitle: ''
-      text: |-
-        Welcome to my academic homepage.
-        
-        This website includes my basic profile, educational background, CV, and selected publications.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
       title: Selected Publications
-      text: 'Each publication can show title, authors, a short summary, and a featured image.'
       count: 20
       filters:
         folders:
