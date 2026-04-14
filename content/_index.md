@@ -44,4 +44,8 @@ sections:
     design:
       view: article-grid
       columns: 3
+      card:
+        show_date: false
+        show_read_time: false
+        show_read_more: false
 ---
