@@ -13,30 +13,29 @@ status:
   icon: ""
 role: PhD Student, Electrical and Computer Engineering
 bio: |
-  He works on human-AI collaboration systems, studying how people and AI can
-  co-create under different constraints. His research focuses on design
-  ideation, controllable generation, interactive authoring, and bidirectional
-  communication to enable closed-loop collaboration.
-
+  I am a Ph.D. student in Electrical and Computer Engineering at Purdue University Convergence Design Lab, 
+  supervised by Prof. Karthik Ramani. 
+  My research focuses on human-AI collaboration systems, particularly how people and AI can co-create under different constraints. 
+  My work spans design ideation, controllable generation, interactive authoring, and bidirectional communication.
 affiliations:
   - name: Purdue University
     url: https://www.purdue.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:your_email@purdue.edu
+    url: mailto:chen4863@purdue.edu
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/yzChen29
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/your-linkedin-id/
+    url: https://www.linkedin.com/in/yuzhao-chen-01a33a2a4
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=your-scholar-id
+    url: https://scholar.google.com/citations?user=mv7ioogAAAAJ
 
 interests:
-  - Machine Learning
-  - Large Language Models
-  - AI for Engineering Applications
+  - Human AI Interaction
+  - Generative Models with Constraints
+  - Computer Vision
 
 education:
   - degree: PhD student in Electrical and Computer Engineering
