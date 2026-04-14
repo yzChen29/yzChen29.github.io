@@ -55,7 +55,7 @@ education:
     end: 2023-06-30
     summary: |
       Project: your master's project title and brief description.
-  - degree: B.S. in Mathematics (GPA: 3.92/4.0)
+  - degree: "B.S. in Mathematics (GPA: 3.92/4.0)"
     institution: University of Liverpool
     start: 2019-09-01
     end: 2021-06-30
