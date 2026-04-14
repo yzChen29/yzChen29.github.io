@@ -1,7 +1,7 @@
 ---
 title: "JustShape: Exploring Co-Speech Gestures for LLM-Empowered Generative Parametric Modeling"
 authors:
-  - "Runlin Duan*"
+  - Runlin Duan
   - Yuzhao Chen
   - Yichen Hu
   - Ziyi Liu
@@ -27,7 +27,7 @@ abstract: >
   We conducted a two-session user study testing and comparing it with traditional language and sketch inputs.
   This work streamlines the parametric modeling workflow and explores novel multimodal interaction paradigms for LLM-empowered design and creation. 
 links:
-  - type: project
+  - type: pdf
     url: "https://dl.acm.org/doi/10.1145/3772318.3790641"
 
 ---

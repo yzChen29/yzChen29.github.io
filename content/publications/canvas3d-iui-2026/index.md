@@ -2,7 +2,7 @@
 title: "Canvas3D: Empowering Precise Spatial Control for Image Generation with Constraints from a 3D Virtual Canvas"
 authors:
   - Yuzhao Chen
-  - "Runlin Duan*"
+  - Runlin Duan
   - Rahul Jain
   - Yichen Hu
   - Chenfei Zhu
@@ -23,6 +23,6 @@ abstract: >
   We conducted a closed-ended comparative study between Canvas3D and a baseline system, and an open-ended, free-form study to assess overall system usability.
   The results indicate that Canvas3D outperforms the baseline on spatial control, interactivity, and overall user experience.
 links:
-  - type: project
+  - type: pdf
     url: "https://arxiv.org/pdf/2508.07135"
 ---
