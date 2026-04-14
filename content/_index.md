@@ -48,10 +48,10 @@ sections:
     content:
       title: Selected Publications
       text: 'Each publication can show title, authors, a short summary, and a featured image.'
+      count: 20
       filters:
         folders:
           - publications
-        count: 3
     design:
       view: article-grid
       columns: 3
