@@ -1,5 +1,5 @@
 ---
-title: "JustShape: Exploring Co-Speech Gestures for LLM-Empowered Generative Parametric Modeling"
+title: "(CHI'26, Honorable Mention Award) JustShape: Exploring Co-Speech Gestures for LLM-Empowered Generative Parametric Modeling"
 authors:
   - Runlin Duan
   - Yuzhao Chen
@@ -15,7 +15,7 @@ author_notes:
   - "Equal contribution"
 publication_types: ["paper-conference"]
 publication: "CHI '26: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
-publication_short: "CHI 2026 (Honorable Mention Award)"
+publication_short: "CHI 2026"
 abstract: >
   Parametric modeling is a prevailing 3D modeling approach in design, architecture, and engineering.
   The emergence of multimodal large language models (LLMs) brings a new opportunity to lower the entry barriers to this powerful tool.

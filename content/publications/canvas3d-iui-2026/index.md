@@ -1,5 +1,5 @@
 ---
-title: "Canvas3D: Empowering Precise Spatial Control for Image Generation with Constraints from a 3D Virtual Canvas"
+title: "(IUI'26) Canvas3D: Empowering Precise Spatial Control for Image Generation with Constraints from a 3D Virtual Canvas"
 authors:
   - Yuzhao Chen
   - Runlin Duan

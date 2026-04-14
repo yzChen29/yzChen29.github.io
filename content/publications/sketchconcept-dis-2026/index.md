@@ -1,5 +1,5 @@
 ---
-title: "SketchConcept: Sketching-based Concept Recomposition for Product Design using Generative AI"
+title: "(DIS'26)SketchConcept: Sketching-based Concept Recomposition for Product Design using Generative AI"
 authors:
   - Runlin Duan
   - Chenfei Zhu

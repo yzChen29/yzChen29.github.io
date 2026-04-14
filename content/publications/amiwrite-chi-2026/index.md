@@ -1,5 +1,5 @@
 ---
-title: "AmIWrite: Exploring Scalable One-on-One Handwriting-Based Tutoring for Mathematical Problem-Solving with an LLM-Powered AI Tutor"
+title: "(CHI'26) AmIWrite: Exploring Scalable One-on-One Handwriting-Based Tutoring for Mathematical Problem-Solving with an LLM-Powered AI Tutor"
 authors:
   - Ziyi Liu
   - Yuzhao Chen
